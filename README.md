@@ -9,18 +9,18 @@
 
 I am a graduate of **Computer Science**.
 
-As a software engineer, I have been working with different libraries and frameworks of JavaScript for last three years. As per my current job responsibilites, I spend most of my professional working hours with **React.js**.
+As a software engineer, I have been working with different libraries and frameworks of PHP and JavaScript for last five years. As per my current job responsibilites, I spend most of my professional working hours with **PHP**. **JavaScript** and **React.js**.
 
 
 <img align="right" alt="GIF" src="https://github.com/sksaju/sksaju/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 ### WORK EXPERIENCE
 
-**JoomShaper, Bangladesh** — Lead Developer, Tutor LMS <br>
+**Themeum, Bangladesh** — Lead Developer, Tutor LMS <br>
 `Dec 2018 - Present`
 <br>
 
- **INNOVATION Information System Ltd, Bangladesh** —  Software Engineer <br>
+ **INNOVATION Information System Ltd** — Software Engineer <br>
 `Sep 2014 - Nov 2018`
 <br>
 <br/><br/><br/><br/>
