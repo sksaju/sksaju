@@ -48,8 +48,8 @@ As a software engineer, I have been working with different libraries and framewo
     </tr>
 </table>
 
-📈 **My GitHub Stats:**
 
+📈 **My GitHub Stats:**
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sksaju&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksaju&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
