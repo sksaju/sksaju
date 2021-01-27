@@ -20,7 +20,7 @@ As a software engineer, I have been working with different libraries and framewo
 `Dec 2018 - Present`
 <br>
 
- **INNOVATION Information System Ltd** — Software Engineer <br>
+ **INNOVATION Information System Ltd, Bangladesh** — Software Engineer <br>
 `Sep 2014 - Nov 2018`
 <br><br>
 
