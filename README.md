@@ -22,7 +22,7 @@ As a software engineer, I have been working with different libraries and framewo
 
  **INNOVATION Information System Ltd** — Software Engineer <br>
 `Sep 2014 - Nov 2018`
-<br>
+<br><br>
 
 ### Technical Skills
 <table>
