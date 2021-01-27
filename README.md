@@ -12,7 +12,7 @@ I am a graduate of **Computer Science**.
 As a software engineer, I have been working with different libraries and frameworks of PHP and JavaScript for last five years. As per my current job responsibilites, I spend most of my professional working hours with **PHP**. **JavaScript** and **React.js**.
 
 
-<img align="right" alt="GIF" src="https://github.com/sksaju/sksaju/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/sksaju/sksaju/blob/master/coding.gif?raw=true" width="340" height="250" />
 
 ### WORK EXPERIENCE
 
@@ -23,7 +23,7 @@ As a software engineer, I have been working with different libraries and framewo
  **INNOVATION Information System Ltd** — Software Engineer <br>
 `Sep 2014 - Nov 2018`
 <br>
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 ### Technical Skills
 <table>
