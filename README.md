@@ -47,7 +47,7 @@ As a software engineer, I have been working with different libraries and framewo
         <td>MySQL/PostgreSQL, MongoDB</td>
     </tr>
 </table>
-
+<br>
 
 📈 **My GitHub Stats:**
 <p>
