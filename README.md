@@ -26,7 +26,6 @@ As a software engineer, I have been working with different libraries and framewo
 <br/><br/>
 
 ### Technical Skills
-
 <table>
     <tr>
         <td>Languages</td>
