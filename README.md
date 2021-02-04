@@ -1,9 +1,11 @@
 ### Hi there, I'm <a href="#" target="_blank"> Shazahan Kabir Saju</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sksaju/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Facebook-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/sksaaju) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_sksaju/)
-[![Gmail](https://img.shields.io/badge/%20-@Email-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:sksaaju@gmail.com) 
+[![LinkedIn URL](https://img.shields.io/badge/social--badge?style=social&label=LinkedIn&logo=linkedin)](https://www.linkedin.com/in/sksaju)
+[![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=Email&logo=gmail)](mailto:sksaaju@gmail.com)
+[![HackerRank URL](https://img.shields.io/badge/social--badge?style=social&label=HackerRank&logo=hackerrank)](https://www.hackerrank.com/sksaju)
+[![freeCodeCamp URL](https://img.shields.io/badge/social--badge?style=social&label=freeCodeCamp&logo=freecodecamp)](https://www.freecodecamp.org/sksaju)
+[![CodePen URL](https://img.shields.io/badge/social--badge?style=social&label=CodePen&logo=codepen)](https://www.codepen.io/sksaju)
+[![Instagram URL](https://img.shields.io/badge/social--badge?style=social&label=Instagram&logo=Instagram)](https://www.instagram.com/_sksaju/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sksaju.sksaju)
 
