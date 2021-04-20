@@ -18,8 +18,12 @@ As a software engineer, I have been working with different libraries and framewo
 
 ### WORK EXPERIENCE
 
+**10up, United States** — Senior Web Engineer <br>
+`Apr 2021 - Present`
+<br>
+
 **Themeum, Bangladesh** — Lead Developer, Tutor LMS <br>
-`Dec 2018 - Present`
+`Dec 2018 - Apr 2021`
 <br>
 
  **INNOVATION Information System Ltd, Bangladesh** — Software Engineer <br>
