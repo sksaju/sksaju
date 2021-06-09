@@ -18,7 +18,7 @@ As a software engineer, I have been working with different libraries and framewo
 
 ### WORK EXPERIENCE
 
-**10up, United States** — Senior Web Engineer <br>
+**10up Inc, United States** — Senior Web Engineer <br>
 `Apr 2021 - Present`
 <br>
 
