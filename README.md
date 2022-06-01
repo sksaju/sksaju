@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="#" target="_blank"> Shazahan Kabir Saju</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="#" target="_blank"> Shazahan Kabir Saju</a>
 
 [![LinkedIn URL](https://img.shields.io/badge/social--badge?style=social&label=LinkedIn&logo=linkedin)](https://www.linkedin.com/in/sksaju)
 [![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=Email&logo=gmail)](mailto:sksaaju@gmail.com)
