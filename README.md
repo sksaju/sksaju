@@ -27,7 +27,7 @@ As a software engineer, I have been working with different libraries and framewo
 <br>
 
  **INNOVATION Information System Ltd, Bangladesh** — Software Engineer <br>
-`Sep 2014 - Nov 2018`
+`Jan 2015 - Nov 2018`
 <br><br>
 
 ### Technical Skills
