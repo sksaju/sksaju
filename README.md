@@ -5,13 +5,12 @@
 [![HackerRank URL](https://img.shields.io/badge/social--badge?style=social&label=HackerRank&logo=hackerrank)](https://www.hackerrank.com/sksaju)
 [![freeCodeCamp URL](https://img.shields.io/badge/social--badge?style=social&label=freeCodeCamp&logo=freecodecamp)](https://www.freecodecamp.org/sksaju)
 [![CodePen URL](https://img.shields.io/badge/social--badge?style=social&label=CodePen&logo=codepen)](https://www.codepen.io/sksaju)
-[![Instagram URL](https://img.shields.io/badge/social--badge?style=social&label=Instagram&logo=Instagram)](https://www.instagram.com/_sksaju/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sksaju.sksaju)
 
 I am a graduate of **Computer Science**.
 
-As a software engineer, I have been working with different libraries and frameworks of PHP and JavaScript for last five years. As per my current job responsibilites, I spend most of my professional working hours with **PHP**. **JavaScript** and **React.js**.
+As a software engineer, I have been working with different libraries and frameworks of PHP and JavaScript for the last five years. As per my current job responsibilities, I spend most of my professional working hours with **PHP**. **JavaScript** and **React.js**.
 
 
 <img align="right" alt="GIF" src="https://github.com/sksaju/sksaju/blob/master/coding.gif?raw=true" width="340" height="250" />
