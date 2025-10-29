@@ -1,12 +1,9 @@
-### Hi there, I'm <a href="#" target="_blank"> Shazahan Kabir Saju</a>
-
 [![LinkedIn URL](https://img.shields.io/badge/social--badge?style=social&label=LinkedIn&logo=linkedin)](https://www.linkedin.com/in/sksaju)
 [![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=Email&logo=gmail)](mailto:sksaaju@gmail.com)
 [![HackerRank URL](https://img.shields.io/badge/social--badge?style=social&label=HackerRank&logo=hackerrank)](https://www.hackerrank.com/sksaju)
 [![freeCodeCamp URL](https://img.shields.io/badge/social--badge?style=social&label=freeCodeCamp&logo=freecodecamp)](https://www.freecodecamp.org/sksaju)
 [![CodePen URL](https://img.shields.io/badge/social--badge?style=social&label=CodePen&logo=codepen)](https://www.codepen.io/sksaju)
 
-### Glad to see you here!
 
 ## 👋 Hi, I'm Shazahan Kabir
 
@@ -45,7 +42,9 @@ I specialize in both **backend** and **frontend** development with deep expertis
 
  **INNOVATION Information System Ltd** — Software Engineer <br>
 `Jan 2015 - Nov 2018`
-<br><br>
+<br>
+
+---
 
 ### Technical Skills
 <table>
