@@ -10,8 +10,6 @@
 **Senior Web Engineer** with over **10 years of experience** in building, scaling, and maintaining high-performance, user-centric web platforms.
 I specialize in both **backend** and **frontend** development with deep expertise in **PHP**, **Laravel**, **WordPress**, and modern **JavaScript frameworks**.
 
----
-
 ### 💡 Core Expertise
 
 * **Custom Architecture Design** – Build and implement tailored architectures across CMS, SaaS, and enterprise platforms
@@ -70,10 +68,3 @@ I specialize in both **backend** and **frontend** development with deep expertis
 Trello, Teamwork, Jira</td>
     </tr>
 </table>
-<br>
-
-📈 **My GitHub Stats:**
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sksaju&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksaju&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
