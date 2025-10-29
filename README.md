@@ -4,7 +4,6 @@
 [![freeCodeCamp URL](https://img.shields.io/badge/social--badge?style=social&label=freeCodeCamp&logo=freecodecamp)](https://www.freecodecamp.org/sksaju)
 [![CodePen URL](https://img.shields.io/badge/social--badge?style=social&label=CodePen&logo=codepen)](https://www.codepen.io/sksaju)
 
-
 ## 👋 Hi, I'm Shazahan Kabir
 
 **Senior Web Engineer** with over **10 years of experience** in building, scaling, and maintaining high-performance, user-centric web platforms.
@@ -67,4 +66,4 @@ I specialize in both **backend** and **frontend** development with deep expertis
         <td>NPM, Composer, Git, Webpack, Babel, gulp.js, Grunt, Docker, Cypress, CircleCI, Slack,
 Trello, Teamwork, Jira</td>
     </tr>
-</table>
+</table>=
