@@ -66,4 +66,4 @@ I specialize in both **backend** and **frontend** development with deep expertis
         <td>NPM, Composer, Git, Webpack, Babel, gulp.js, Grunt, Docker, Cypress, CircleCI, Slack,
 Trello, Teamwork, Jira</td>
     </tr>
-</table>=
+</table>
