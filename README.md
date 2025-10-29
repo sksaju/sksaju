@@ -24,8 +24,8 @@ I specialize in both **backend** and **frontend** development with deep expertis
 * **Dynamic UI Development** – Build interactive interfaces with JavaScript (ES6+), React, and Gutenberg blocks
 * **TDD & CI/CD** – Apply Test-Driven Development principles and performance-optimized continuous integration workflows
 * **Best Practices & OOP** – Strong foundation in object-oriented programming, database schema design, and modern engineering practices
-.
 
+---
 
 <img align="right" alt="GIF" src="https://github.com/sksaju/sksaju/blob/master/coding.gif?raw=true" width="340" height="250" />
 
