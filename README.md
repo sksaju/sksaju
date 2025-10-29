@@ -8,9 +8,23 @@
 
 ### Glad to see you here!
 
-I am a graduate of **Computer Science**.
+## 👋 Hi, I'm Shazahan Kabir
 
-As a software engineer, I have been working with different libraries and frameworks of PHP and JavaScript for the last five years. As per my current job responsibilities, I spend most of my professional working hours with **PHP**. **JavaScript** and **React.js**.
+**Senior Web Engineer** with over **10 years of experience** in building, scaling, and maintaining high-performance, user-centric web platforms.
+I specialize in both **backend** and **frontend** development with deep expertise in **PHP**, **Laravel**, **WordPress**, and modern **JavaScript frameworks**.
+
+---
+
+### 💡 Core Expertise
+
+* **Custom Architecture Design** – Build and implement tailored architectures across CMS, SaaS, and enterprise platforms
+* **Scalable Application Development** – Develop high-traffic applications with PHP, Laravel, and WordPress (custom solutions, migrations, and integrations)
+* **Full Development Lifecycle** – Plan, implement, deploy, and maintain complete software systems
+* **REST API Design & Integration** – Create robust APIs, third-party integrations, and custom endpoints
+* **Dynamic UI Development** – Build interactive interfaces with JavaScript (ES6+), React, and Gutenberg blocks
+* **TDD & CI/CD** – Apply Test-Driven Development principles and performance-optimized continuous integration workflows
+* **Best Practices & OOP** – Strong foundation in object-oriented programming, database schema design, and modern engineering practices
+.
 
 
 <img align="right" alt="GIF" src="https://github.com/sksaju/sksaju/blob/master/coding.gif?raw=true" width="340" height="250" />
@@ -37,23 +51,24 @@ As a software engineer, I have been working with different libraries and framewo
 <table>
     <tr>
         <td>Languages</td>
-        <td>PHP, JavaScript, C/C++</td>
+        <td>PHP, JavaScript</td>
     </tr>
     <tr>
-        <td>Frameworks</td>
-        <td>Laravel, CodeIgniter, Vue.js, Express.js, Svelte, Bootstrap</td>
+        <td>Databse</td>
+        <td>MySQL/PostgreSQL</td>
     </tr>
     <tr>
-        <td>Libraries</td>
-        <td>jQuery, React.js, Redux, mongoose, Jest/Enzyme</td>
+        <td>CMS & Framework</td>
+        <td>WordPress, Laravel, CodeIgniter, Express.js</td>
+    </tr>
+    <tr>
+        <td>Frontend</td>
+        <td>React, Redux, Svelte, jQuery, CSS, Bootstrap, Sass/LESS, Tailwind CSS</td>
     </tr>
     <tr>
         <td>Tools</td>
-        <td>Git, Webpack, Babel, gulp.js, Docker, Jenkins</td>
-    </tr>
-    <tr>
-        <td>Database</td>
-        <td>MySQL/PostgreSQL, MongoDB</td>
+        <td>NPM, Composer, Git, Webpack, Babel, gulp.js, Grunt, Docker, Cypress, CircleCI, Slack,
+Trello, Teamwork, Jira</td>
     </tr>
 </table>
 <br>
