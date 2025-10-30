@@ -6,18 +6,17 @@
 
 ## 👋 Hi, I'm Shazahan Kabir
 
-**Senior Web Engineer** with over **10 years of experience** in building, scaling, and maintaining high-performance, user-centric web platforms.
-I specialize in both **backend** and **frontend** development with deep expertise in **PHP**, **Laravel**, **WordPress**, and modern **JavaScript frameworks**.
+**Senior Web Engineer** with over **10 years of experience** in building, scaling, and maintaining high-performance, user-centric web platforms. Skilled in both **backend** and **frontend** development with deep expertise in **PHP**, **Laravel**, **WordPress**, and modern **JavaScript frameworks**.
 
-### 💡 Core Expertise
+### 💡 Proven expertise in:
 
-* **Custom Architecture Design** – Build and implement tailored architectures across CMS, SaaS, and enterprise platforms
-* **Scalable Application Development** – Develop high-traffic applications with PHP, Laravel, and WordPress (custom solutions, migrations, and integrations)
-* **Full Development Lifecycle** – Plan, implement, deploy, and maintain complete software systems
-* **REST API Design & Integration** – Create robust APIs, third-party integrations, and custom endpoints
-* **Dynamic UI Development** – Build interactive interfaces with JavaScript (ES6+), React, and Gutenberg blocks
-* **TDD & CI/CD** – Apply Test-Driven Development principles and performance-optimized continuous integration workflows
-* **Best Practices & OOP** – Strong foundation in object-oriented programming, database schema design, and modern engineering practices
+* Design and implement custom architectures across CMS, SaaS, and enterprise platforms
+* Build scalable applications with PHP, Laravel, and WordPress (custom solutions, migrations, etc.)
+* Manage full development lifecycle: planning, implementation, deployment, and maintenance
+* Design REST APIs and integrations, including third-party services and custom endpoints
+* Develop dynamic UIs with JavaScript (ES6+), React, and Gutenberg blocks
+* Apply Test-Driven Development (TDD), CI/CD pipelines, and performance-focused workflows
+* Strong knowledge of OOP, database schema design, and modern development best practices
 
 ---
 
