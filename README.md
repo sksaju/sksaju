@@ -18,7 +18,7 @@
 * Apply Test-Driven Development (TDD), CI/CD pipelines, and performance-focused workflows
 * Strong knowledge of OOP, database schema design, and modern development best practices
 
----
+--
 
 <img align="right" alt="GIF" src="https://github.com/sksaju/sksaju/blob/master/coding.gif?raw=true" width="340" height="250" />
 
