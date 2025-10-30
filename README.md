@@ -8,7 +8,7 @@
 
 **Senior Web Engineer** with over **10 years of experience** in building, scaling, and maintaining high-performance, user-centric web platforms. Skilled in both **backend** and **frontend** development with deep expertise in **PHP**, **Laravel**, **WordPress**, and modern **JavaScript frameworks**.
 
-### 💡 Proven expertise in:
+### Proven expertise in:
 
 * Design and implement custom architectures across CMS, SaaS, and enterprise platforms
 * Build scalable applications with PHP, Laravel, and WordPress (custom solutions, migrations, etc.)
