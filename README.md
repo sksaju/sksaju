@@ -4,7 +4,7 @@
 [![freeCodeCamp URL](https://img.shields.io/badge/social--badge?style=social&label=freeCodeCamp&logo=freecodecamp)](https://www.freecodecamp.org/sksaju)
 [![CodePen URL](https://img.shields.io/badge/social--badge?style=social&label=CodePen&logo=codepen)](https://www.codepen.io/sksaju)
 
-## 👋 Hi, I'm Shazahan Kabir
+## 👋 Hi, I'm Shazahan Kabir (Saju)
 
 **Senior Web Engineer** with over **10 years of experience** in building, scaling, and maintaining high-performance, user-centric web platforms. Skilled in both **backend** and **frontend** development with deep expertise in **PHP**, **Laravel**, **WordPress**, and modern **JavaScript frameworks**.
 
@@ -42,7 +42,7 @@
 
 ---
 
-### Technical Skills
+### TECHNICAL SKILLS
 <table>
     <tr>
         <td>Languages</td>
