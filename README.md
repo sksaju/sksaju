@@ -53,7 +53,7 @@
         <td>MySQL/PostgreSQL</td>
     </tr>
     <tr>
-        <td>CMS & Framework</td>
+        <td>CMS & Frameworks</td>
         <td>WordPress, Laravel, CodeIgniter, Express.js</td>
     </tr>
     <tr>
