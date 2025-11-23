@@ -58,11 +58,10 @@
     </tr>
     <tr>
         <td>Frontend</td>
-        <td>React, Redux, Svelte, jQuery, CSS, Bootstrap, Sass/LESS, Tailwind CSS</td>
+        <td>React, Redux, Svelte, jQuery, Bootstrap, CSS, PostCSS, SCSS, TailwindCSS</td>
     </tr>
     <tr>
         <td>Tools</td>
-        <td>NPM, Composer, Git, Webpack, Babel, gulp.js, Grunt, Docker, Cypress, CircleCI, Slack,
-Trello, Teamwork, Jira</td>
+        <td>NPM, Composer, Git, Webpack, Babel, gulp.js, Grunt, Docker, Cypress, CircleCI, Slack, Figma, Miro, Trello, Teamwork, Jira</td>
     </tr>
 </table>
