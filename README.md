@@ -24,10 +24,6 @@
 
 ### WORK EXPERIENCE
 
-**X-Team** — Senior Web Engineer <br>
-`Sep 2025 - Present`
-<br>
-
 **10up Inc** — Senior Web Engineer <br>
 `Apr 2021 - Aug 2025`
 <br>
