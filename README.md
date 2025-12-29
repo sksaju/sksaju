@@ -58,6 +58,6 @@
     </tr>
     <tr>
         <td>Tools</td>
-        <td>NPM, Composer, Git, Webpack, Babel, gulp.js, Grunt, Docker, Cypress, CircleCI, Slack, Figma, Miro, Trello, Teamwork, Jira</td>
+        <td>NPM, Composer, Webpack, Babel, gulp.js, Grunt, Docker, wp/vip-env, WP local, Playwright, Cypress, PHPUnit, Jest, XDebug, Query Monitor, New Relic, CircleCI, Git, Elasticsearch, Teamwork, Slack, Jira, Figma, Miro</td>
     </tr>
 </table>
