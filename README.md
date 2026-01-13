@@ -45,7 +45,7 @@
     </tr>
     <tr>
         <td>Databse</td>
-        <td>MySQL/PostgreSQL</td>
+        <td>MySQL/PostgreSQL, MongoDB</td>
     </tr>
     <tr>
         <td>CMS & Frameworks</td>
