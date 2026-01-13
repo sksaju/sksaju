@@ -1,7 +1,6 @@
 [![LinkedIn URL](https://img.shields.io/badge/social--badge?style=social&label=LinkedIn&logo=linkedin)](https://www.linkedin.com/in/sksaju)
-[![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=Email&logo=gmail)](mailto:sksaaju@gmail.com)
-[![HackerRank URL](https://img.shields.io/badge/social--badge?style=social&label=HackerRank&logo=hackerrank)](https://www.hackerrank.com/sksaju)
 [![freeCodeCamp URL](https://img.shields.io/badge/social--badge?style=social&label=freeCodeCamp&logo=freecodecamp)](https://www.freecodecamp.org/sksaju)
+[![HackerRank URL](https://img.shields.io/badge/social--badge?style=social&label=HackerRank&logo=hackerrank)](https://www.hackerrank.com/sksaju)
 [![CodePen URL](https://img.shields.io/badge/social--badge?style=social&label=CodePen&logo=codepen)](https://www.codepen.io/sksaju)
 
 ## 👋 Hi, I'm Shazahan Kabir (Saju)
@@ -42,7 +41,7 @@
 <table>
     <tr>
         <td>Languages</td>
-        <td>PHP, JavaScript</td>
+        <td>PHP, JavaScript, Node.js</td>
     </tr>
     <tr>
         <td>Databse</td>
@@ -54,7 +53,7 @@
     </tr>
     <tr>
         <td>Frontend</td>
-        <td>React, Redux, Svelte, jQuery, Bootstrap, CSS, PostCSS, SCSS, TailwindCSS</td>
+        <td>React, Redux, Vue.js, Svelte, jQuery, Bootstrap, HTML, CSS, SCSS, PostCSS, TailwindCSS</td>
     </tr>
     <tr>
         <td>Tools</td>
