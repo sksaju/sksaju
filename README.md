@@ -23,15 +23,15 @@
 
 ### WORK EXPERIENCE
 
-**10up Inc** — Senior Web Engineer | (Remote, USA)<br>
+**10up Inc** — Senior Web Engineer — (Remote, USA)<br>
 `Apr 2021 - Aug 2025`
 <br>
 
-**Ollyo** — Lead Developer, Tutor LMS | (Onsite, BD)<br>
+**Ollyo** — Lead Developer, Tutor LMS — (Onsite, BD)<br>
 `Dec 2018 - Apr 2021`
 <br>
 
- **INNOVATION Information System Ltd** — Software Engineer  | (Onsite, BD)<br>
+ **INNOVATION Information System Ltd** — Software Engineer — (Onsite, BD)<br>
 `Jan 2015 - Nov 2018`
 <br>
 
