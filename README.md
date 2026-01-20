@@ -27,7 +27,7 @@
 `Apr 2021 - Aug 2025`
 <br>
 
-**Themeum** — Lead Developer, Tutor LMS <br>
+**Ollyo** — Lead Developer, Tutor LMS <br>
 `Dec 2018 - Apr 2021`
 <br>
 
