@@ -32,7 +32,7 @@
 <br>
 
  **INNOVATION Information System Ltd** — Software Engineer — (Onsite, BD)<br>
-`Jan 2015 - Nov 2018`
+`Aug 2014 - Nov 2018`
 <br>
 
 ---
