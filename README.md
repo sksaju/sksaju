@@ -53,7 +53,7 @@
     </tr>
     <tr>
         <td>Frontend</td>
-        <td>React, Redux, Vue.js, Svelte, jQuery, Bootstrap, HTML, CSS, SCSS, PostCSS, TailwindCSS</td>
+        <td>React, Redux, Zustand, Vue.js, Svelte, jQuery, Bootstrap, HTML, CSS, SCSS, PostCSS, TailwindCSS</td>
     </tr>
     <tr>
         <td>Tools</td>
